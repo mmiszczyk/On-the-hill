@@ -1,4 +1,2 @@
-On The Hill
-===========
-Turn-based strategy/city-building game. Very early work in progress
-so nothing works yet.
+This repo is out of date, I am now commiting
+directly to [mainline.](https://github.com/OuroborsGames/On-The-Hill)
